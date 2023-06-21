@@ -1,0 +1,23 @@
+!
+! Title: gmong DNS filter
+! Description: 개인적인 필터
+! Homepage: 
+! Last modified: 2023-06-22T00:06:56.980Z
+!
+! Compiled by @adguard/hostlist-compiler v1.0.19
+!
+!
+! Source name: gmong DNS filter
+! Source: https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+!
+!
+!
+
+||nelo2-col.navercorp.com^
+||connectivitycheck.gstatic.com^
+||time.android.com^
+||srv.giraffic.com^
+||voilatile-pa.googleapis.com^
+||18.176.163.36^
+||gos-api.gos-gsp.io^
+||sider.ai^$important
