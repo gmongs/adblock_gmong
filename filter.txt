@@ -20,4 +20,4 @@
 ||voilatile-pa.googleapis.com^
 ||18.176.163.36^
 ||gos-api.gos-gsp.io^
-||sider.ai^$important
+||sider.ai^
