@@ -9,8 +9,8 @@
 !
 !
 
-@@||ad.doubleclick.net^$important
-@@||www.googletagservices.com^$important
-@@||pagead2.googleadservices.com^$important
-@@||googleads.g.doubleclick.net^$important
-@@||pagead2.googlesyndication.com^$important
+ad.doubleclick.net
+www.googletagservices.com
+pagead2.googleadservices.com
+googleads.g.doubleclick.net
+pagead2.googlesyndication.com
