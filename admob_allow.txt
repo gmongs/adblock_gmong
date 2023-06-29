@@ -2,15 +2,9 @@
 ! Title: 안드로이드 광고 허용 필터
 ! Description: 안드로이드 광고 허용 필터
 !
-!
-! Source name: gmong DNS filter
-! Source: https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-!
-!
-!
 
-ad.doubleclick.net
-www.googletagservices.com
-pagead2.googleadservices.com
-googleads.g.doubleclick.net
-pagead2.googlesyndication.com
+||ad.doubleclick.net^
+||www.googletagservices.com^
+||pagead2.googleadservices.com^
+||googleads.g.doubleclick.net^
+||pagead2.googlesyndication.com^
