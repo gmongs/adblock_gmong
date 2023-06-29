@@ -8,3 +8,4 @@
 ||pagead2.googleadservices.com^
 ||googleads.g.doubleclick.net^
 ||pagead2.googlesyndication.com^
+||tpc.googlesyndication.com^
