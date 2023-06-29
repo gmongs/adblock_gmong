@@ -21,3 +21,4 @@
 ||18.176.163.36^
 ||gos-api.gos-gsp.io^
 ||sider.ai^
+||s.deepl.com^
