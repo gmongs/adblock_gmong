@@ -22,3 +22,5 @@
 ||gos-api.gos-gsp.io^
 ||sider.ai^
 ||s.deepl.com^
+||android.googleapis.com^
+||mdh-pa.googleapis.com^
